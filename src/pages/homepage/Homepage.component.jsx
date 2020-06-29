@@ -9,6 +9,6 @@ const Homepage = () => {
       <Directory />
     </div>
   );
-};
+};  
 
 export default Homepage;
